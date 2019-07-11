@@ -1,8 +1,7 @@
 # HappyBday
 
-Welcome to your new gem! In this directory, you'll find the files you need to be able to package up your Ruby library into a gem. Put your Ruby code in the file `lib/happy_bday`. To experiment with that code, run `bin/console` for an interactive prompt.
+A basic gem to wish a user a happy birthday.
 
-TODO: Delete this and the text above, and describe your gem
 
 ## Installation
 
@@ -22,7 +21,7 @@ Or install it yourself as:
 
 ## Usage
 
-TODO: Write usage instructions here
+Call class method 'happy_bday'!
 
 ## Development
 
